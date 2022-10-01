@@ -1,6 +1,7 @@
 # CPNT 260 Assignment 3: 404 Page Not Found
 Author: Rustu Mesut Eser
 Live site: [silentchallenger.github.io/cpnt260-a3](https://silentchallenger.github.io/cpnt260-a3)
+- I searched for different types of footer navigation with keyword `css footer navigation`
 
 ## Above and Beyond
 I chose the following
